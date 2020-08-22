@@ -1,0 +1,6 @@
+# Compiled code
+__pycache__/
+# Output files
+output/
+# Jupyter directory
+.ipynb_checkpoints/
