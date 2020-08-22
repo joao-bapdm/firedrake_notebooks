@@ -8,4 +8,6 @@ E então executá-lo:
 
 `python3 firedrake-install`
 
-Feito isso, basta abrir o notebook e executá-lo.
+Feito isso, basta abrir o notebook `acoustic_wave.ipynb` e executá-lo.
+
+Uma versão em script está disponível como `acoustic_wave.py`.
